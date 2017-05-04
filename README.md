@@ -10,3 +10,5 @@ LaTeX PDF book:
     viewing](../pub/book/pdf/fem-book-4screen-sol.pdf)
 -   [for printing with 2 pages per
     sheet](../pub/book/pdf/fdm-book-4print-2up.pdf)
+Programs:
+-   [Programs](doc/programs)
