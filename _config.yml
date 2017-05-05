@@ -1,6 +1,6 @@
 show_downloads: true
 lang:   fr
-theme: jekyll-theme-modernist
+theme: jekyll-theme-leap-day
 include-after: |
     <div id="starmereminder">
     <iframe style="float:left" src="https://ghbtns.com/github-btn.html?user=astrax&repo=IntroPython-FST&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
