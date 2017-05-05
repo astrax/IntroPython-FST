@@ -1,7 +1,14 @@
 
 ## Formation: Introduction à Python
-Ce référentiel contient du matériel didactique pertinent à un cours intensif en Physique Computaculaire à l'Université de Tunis en Tunisie du 16 mai au 20 mai 2016. Le matériel met l'accent sur les problèmes mécaniques quantiques avec Variational Monte Carlo et les méthodes de diagonalisation comme sujet principal. Les systèmes mécaniques quantiques étudiés sont des électrons (fermions) dans des pièges oscillateurs harmoniques en deux et trois dimensions.
-LaTeX PDF book:
+Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude. Les avantages de python sont multiples:
+- Gratuit
+- Compatibilité entre les OS
+- Plateforme unique permettant de réaliser des études diverses:
+    - Intégration d'équation différentielles (Librairies pour l'analyse numérique)
+    - Analyse statistique (Environnement R)
+    - Calculs formels 
+    - Générer des documents (Livre, articles, présentations...) en intégrant du texte, des images, du code interprétable.
+
 
 ### Documents:
 -   [for screen viewing](../pub/book/pdf/fem-book-4screen.pdf)
