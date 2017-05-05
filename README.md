@@ -15,3 +15,10 @@ LaTeX PDF book:
 
 ### Programs:
 -   [Programs](doc/programs/image.pdf)
+
+
+include-after: |
+    <div id="starmereminder">
+    <iframe style="float:left" src="https://ghbtns.com/github-btn.html?user=astrax&repo=IntroPython-FST&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+    <h3>🡸 Don’t forget to star <strong>IntroPython-FST</strong>!</h3>
+    </div>
