@@ -1,7 +1,7 @@
-
 # Introduction à Numpy
 
-### Ahmed Ammar et Hassen Ghalila, dpt Physique, Faculté des Sciences de Tunis, Université de Tunis El Manar
+<span style="color:blue; font-family:Georgia; font-size:1.5em;">Ahmed Ammar et Hassen Ghalila</span>
+<span style="color:blue; font-family:Georgia; font-size:1em;">Faculté des Sciences de Tunis, Université de Tunis El Manar</span>
 
 
 ```python

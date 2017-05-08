@@ -10,17 +10,23 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
     - Générer des documents (Livre, articles, présentations...) en intégrant du texte, des images, du code interprétable.
 
 
-### Documents:
-* **Introduction à la programmation scientifique**
-	-   [html](doc/html/Introduction.html)
-	-   [notebook](doc/notebooks/Introduction.ipynb)
-* **Introduction à Python**
-	-   [html](doc/html/PythonIntro.html)
-	-   [notebook](doc/notebooks/PythonIntro.ipynb)
-* **Introduction à Numpy**
-	-   [html](doc/html/NumpyIntro.html)
-	-   [notebook](doc/notebooks/NumpyIntro.ipynb)
-* **Introduction à Matplotlib** (en cours!)
-	-   html
-	-   [notebook](doc/notebooks/MatplotlibIntro.ipynb)
+## Documents:
+
+### Introduction à la programmation scientifique
+
+*   [html](doc/html/Introduction.html)
+*   [pdf](doc/pdf/Introduction.pdf)
+*   [notebook](doc/notebooks/Introduction.ipynb)
+### Introduction à Python
+*   [html](doc/html/PythonIntro.html)
+*   [pdf](doc/pdf/PythonIntro.pdf)
+*   [notebook](doc/notebooks/PythonIntro.ipynb)
+### Introduction à Numpy
+*   [html](doc/html/NumpyIntro.html)
+*   [pdf](doc/pdf/NumpyIntro.pdf)
+*   [notebook](doc/notebooks/NumpyIntro.ipynb)
+### Introduction à Matplotlib
+*	[html](doc/html/MatplotlibIntro/MatplotlibIntro.html)
+*   [pdf](doc/pdf/MatplotlibIntro.pdf)
+*   [notebook](doc/notebooks/MatplotlibIntro.ipynb)
 

@@ -1,6 +1,8 @@
 
 # Introduction à Python
-### Ahmed Ammar et Hassen Ghalila, dpt Physique, Faculté des Sciences de Tunis, Université de Tunis El Manar
+<span style="color:blue; font-family:Georgia; font-size:1.5em;">Ahmed Ammar et Hassen Ghalila</span>
+
+<span style="color:blue; font-family:Georgia; font-size:1em;">Faculté des Sciences de Tunis, Université de Tunis El Manar</span>
 
 
 ```python
@@ -8,9 +10,6 @@
 import time
 print(time.ctime())
 ```
-
-    Sun May  7 23:00:32 2017
-
 
 ## Utilisation de Python comme calculatrice
 
@@ -193,7 +192,6 @@ print(res, type(res))
 
 ```python
 print (int(res))
-print (int(not res))
 ```
 
 

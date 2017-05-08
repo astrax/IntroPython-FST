@@ -1,7 +1,8 @@
 
 # Introduction à la programmation scientifique
+<span style="color:blue; font-family:Georgia; font-size:1.5em;">Ahmed Ammar et Hassen Ghalila</span>
 
-### Ahmed Ammar et Hassen Ghalila, dpt Physique, Faculté des Sciences de Tunis, Université de Tunis El Manar
+<span style="color:blue; font-family:Georgia; font-size:1em;">Faculté des Sciences de Tunis, Université de Tunis El Manar</span>
 
 
 ```python
@@ -53,6 +54,11 @@ Détails techniques:
 * [Python tutorials](https://docs.python.org/3.6/tutorial/). The official Python tutorials.
 * [Think Python](http://www.greenteapress.com/thinkpython). ''How to Think Like a Computer Scientist'' by Allen B. Downey (free book).
 * [Python Course](http://python-course.eu/python3_course.php). This website contains a free and extensive online tutorial by Bernd Klein, well suited for self-learning. However, you can attend one of his Python courses in Paris, London, Toronto, Berlin, Frankfurt, Hamburg Munich or Lake Constance. 
+
+## Cours sur github:
+- ["Scientific Python Lectures"](https://github.com/jrjohansson/scientific-python-lectures) by  Robert Johansson
+- ["Anatomy Of Matplotlib"](https://github.com/WeatherGod/AnatomyOfMatplotlib) by  Benjamin Root
+- ["Python-lectures-Notebooks"](https://github.com/Morisset/Python-lectures-Notebooks) by Christophe Morisset
 
 ## Version de Python et bibliothéques utilisées
 
