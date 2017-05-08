@@ -20,7 +20,7 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 * **Introduction à Numpy**
 	-   [html](doc/html/NumpyIntro.html)
 	-   [notebook](doc/notebooks/NumpyIntro.ipynb)
-* **Introduction à Matplotlib**
-	-   [html](doc/html/Matplotlib.html)
-	-   [notebook](doc/notebooks/Matplotlib.ipynb)
+* **Introduction à Matplotlib** (en cours!)
+	-   html
+	-   [notebook](doc/notebooks/MatplotlibIntro.ipynb)
 
