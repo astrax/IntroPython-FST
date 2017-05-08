@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-5.1.dtd">
+<!-- eric6 tasks file for project SingleSlit1D -->
+<!-- Saved: 2016-10-24, 19:01:13 -->
+<Tasks version="5.1">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2016-10-22, 00:31:33</Created>
+    <Resource>
+      <Filename>SingleSlit1D.py</Filename>
+      <Linenumber>74</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
