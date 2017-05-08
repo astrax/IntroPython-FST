@@ -11,14 +11,16 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 
 
 ### Documents:
--   [for screen viewing](../pub/book/pdf/fem-book-4screen.pdf)
--   [for printing](../pub/book/pdf/fem-book-4print.pdf) or [more compact
-    format (2 pages per sheet)](../pub/book/pdf/fem-book-4print-2up.pdf)
--   [with solutions for screen
-    viewing](../pub/book/pdf/fem-book-4screen-sol.pdf)
--   [for printing with 2 pages per
-    sheet](../pub/book/pdf/fdm-book-4print-2up.pdf)
+* **Introduction à la programmation scientifique**
+	-   [html](doc/html/Introduction.html)
+	-   [notebook](doc/notebooks/Introduction.ipynb)
+* **Introduction à Python**
+	-   [html](doc/html/PythonIntro.html)
+	-   [notebook](doc/notebooks/PythonIntro.ipynb)
+* **Introduction à Numpy**
+	-   [html](doc/html/NumpyIntro.html)
+	-   [notebook](doc/notebooks/NumpyIntro.ipynb)
+* **Introduction à Matplotlib**
+	-   [html](doc/html/Matplotlib.html)
+	-   [notebook](doc/notebooks/Matplotlib.ipynb)
 
-
-### Programs:
--   [Programs](doc/programs/image.pdf)
