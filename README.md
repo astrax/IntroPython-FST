@@ -7,8 +7,10 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
     - Intégration d'équation différentielles (Librairies pour l'analyse numérique)
     - Analyse statistique (Environnement R)
     - Calculs formels 
-    - Générer des documents (Livre, articles, présentations...) en intégrant du texte, des images, du code interprétable.
+    - Générer des documents (Livre, articles, présentations, ...) en intégrant du texte, des images, du code interprétable
+    - ...
 
+<center>Plan</center>
 
 ## Documents:
 
