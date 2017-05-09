@@ -14,9 +14,9 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 <br>
 <center><h1>Plan</h1></center>
 <ul>
-<li> <B>Installation (1H)</li>
-<li> Initiation aux principales bibliothèques Python (1H)</li>
-<li> Application: Optique ondulatoire (1H)</B></li>
+<li> <b>Installation (1H)</b></li>
+<li> <b>Initiation aux principales bibliothèques Python (1H)</b></li>
+<li> <b>Application: Optique ondulatoire (1H)</b></li>
 </ul>
 <br>
 <br>
