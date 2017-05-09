@@ -1,5 +1,5 @@
 
-## Formation: Introduction à Python
+<center><h1>Formation: Introduction à Python</h1></center>
 Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude. Les avantages de python sont multiples:
 - Gratuit
 - Compatibilité entre les OS
@@ -10,12 +10,16 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
     - Générer des documents (Livre, articles, présentations, ...) en intégrant du texte, des images, du code interprétable
     - ...
 
-<h1>Plan</h1>
+<br>
+<br>
+<center><h1>Plan</h1></center>
 <ul>
 <li> Installation (1H)</li>
 <li> Initiation aux principales bibliothèques Python (1H)</li>
 <li> Application: Optique ondulatoire (1H)</li>
 </ul>
+<br>
+<br>
 
 ## Documents:
 
