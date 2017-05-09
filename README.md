@@ -14,14 +14,14 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 <br>
 <center><h1>Plan</h1></center>
 <ul>
-<li> Installation (1H)</li>
+<li> <B>Installation (1H)</li>
 <li> Initiation aux principales bibliothèques Python (1H)</li>
-<li> Application: Optique ondulatoire (1H)</li>
+<li> Application: Optique ondulatoire (1H)</B></li>
 </ul>
 <br>
 <br>
 
-## Documents:
+<center><h2>Documents</h2></center>
 
 ### Introduction à la programmation scientifique
 *   [html](doc/html/Introduction.html)
