@@ -10,7 +10,12 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
     - Générer des documents (Livre, articles, présentations, ...) en intégrant du texte, des images, du code interprétable
     - ...
 
-<center>Plan</center>
+<h1>Plan</h1>
+<ul>
+<li> Installation (1H)</li>
+<li> Initiation aux principales bibliothèques Python (1H)</li>
+<li> Application: Optique ondulatoire (1H)</li>
+</ul>
 
 ## Documents:
 
