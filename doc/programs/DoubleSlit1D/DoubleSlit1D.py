@@ -1,8 +1,12 @@
-import sys, subprocess,platform
-import os
-from PyQt4 import QtGui
-from PyQt4.QtCore import pyqtSignature
-from PyQt4.QtGui import QMainWindow, QMessageBox
+import sys
+# Import PyQt Widgets for actually used PyQt version
+if "PyQt5" in sys.modules:
+    from PyQt5.QtCore import pyqtSlot
+    from PyQt5.QtWidgets import QApplication, QMainWindow
+elif "PyQt4" in sys.modules:
+    from PyQt4.QtCore import pyqtSlot
+    from PyQt4.QtGui import QApplication, QMainWindow
+
 from Ui_DoubleSlit1D import Ui_MainWindow
 from numpy import pi, linspace,sin, cos, exp, real,imag
 
@@ -53,78 +57,53 @@ class DoubleSlit1D(QMainWindow, Ui_MainWindow):
         mpl1d.ax.set_title(r"$\lambda = %.3e \ m, \ b1 = %.2e \ m, \ b2 = %.2e \ m, \ a = %.2e \ m, \ D = %.1f \ m$"% (lamda,b1,b2,a,D),fontsize=10)
         mpl1d.draw()
 
-    @pyqtSignature("int")   
+    @pyqtSlot("int")   
     def on_slider_lambda_valueChanged(self, value):
         self.SpinBox_lambda.setValue(value)
         self.fig1()
-    @pyqtSignature("int")
+    @pyqtSlot("int")
     def on_slider_b_valueChanged(self, value):
         self.SpinBox_b.setValue(value)
         self.fig1()
-    @pyqtSignature("int")
+    @pyqtSlot("int")
     def on_slider_db_valueChanged(self, value):
         self.SpinBox_db.setValue(value)
         self.fig1()
-    @pyqtSignature("int")
+    @pyqtSlot("int")
     def on_slider_a_valueChanged(self, value):
         self.SpinBox_a.setValue(value)
         self.fig1()
-    @pyqtSignature("int")
+    @pyqtSlot("int")
     def on_slider_sx_valueChanged(self, value):
         self.SpinBox_a.setValue(value)
         self.fig1()
-    @pyqtSignature("int")
+    @pyqtSlot("int")
     def on_slider_D_valueChanged(self, value):
         self.SpinBox_D.setValue(value)
         self.fig1()
-    @pyqtSignature("int")
+    @pyqtSlot("int")
     def on_SpinBox_lambda_valueChanged(self, value):
         self.slider_lambda.setValue(value)
-    @pyqtSignature("double")
+    @pyqtSlot("double")
     def on_SpinBox_b_valueChanged(self, value):
         self.slider_b.setValue(value)
         self.fig1()
-    @pyqtSignature("double")
+    @pyqtSlot("double")
     def on_SpinBox_db_valueChanged(self, value):
         self.slider_db.setValue(value)    
-    @pyqtSignature("double")
+    @pyqtSlot("double")
     def on_SpinBox_a_valueChanged(self, value):
         self.slider_a.setValue(value)
         self.fig1()
-    @pyqtSignature("double")
+    @pyqtSlot("double")
     def on_SpinBox_sx_valueChanged(self, value):
         self.slider_sx.setValue(value)
-    @pyqtSignature("double")
+    @pyqtSlot("double")
     def on_SpinBox_D_valueChanged(self, value):
         self.slider_D.setValue(value)
-    @pyqtSignature("")
-    def on_actionAbout_triggered(self):
-        QtGui.QMessageBox.about(self,"Fraunhofer",
-        """
-        This is a simulation of Fraunhofer diffraction by a Young slits ...
-        By the group of: Learn optics with python book
-        """)
-    @pyqtSignature("")
-    def on_actionAbout_Qt_triggered(self):
-        QMessageBox.aboutQt(self)
-    @pyqtSignature("")
-    def on_actionTuturial_triggered(self):
-        myOS = platform.system()
-        if myOS == 'Windows':
-            filename = 'Tutorial.html'
-            os.startfile(filename)
-        elif myOS == 'Linux':
-            filename = 'Tutorial.html'
-            subprocess.call(['open', filename])
-        else:
-            filename = 'Tutorial.html'
-            subprocess.call(['xdg-open', filename])    
-    @pyqtSignature("")
-    def on_actionExit_triggered(self):
-        self.close()
 
 if __name__ == "__main__":
-    app = QtGui.QApplication(sys.argv)
+    app = QApplication(sys.argv)
     MyApplication = DoubleSlit1D()
     MyApplication.show()
     sys.exit(app.exec_())
