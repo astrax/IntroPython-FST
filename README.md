@@ -1,6 +1,7 @@
 
 <center><h1>Introduction à Python</h1></center>
 Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude. Les avantages de python sont multiples:
+    
     * Gratuit
     * Compatibilité entre les OS
     * Plateforme unique permettant de réaliser des études diverses:
