@@ -25,22 +25,22 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 <center><h2>Documents</h2></center>
 
 ### Introduction à la programmation scientifique
-*   [html](https://github.com/astrax/IntroPython-FST/blob/master/doc/html/Introduction.html)
+*   [html](https://astrax.github.io/IntroPython-FST/blob/master/doc/html/Introduction.html)
 *   [pdf](doc/pdf/Introduction.pdf)
 *   [notebook](doc/notebooks/Introduction.ipynb)
 
 ### Introduction à Python
-*   [html](https://github.com/astrax/IntroPython-FST/blob/master/doc/html/PythonIntro.html)
+*   [html](https://astrax.github.io/IntroPython-FST/blob/master/doc/html/PythonIntro.html)
 *   [pdf](doc/pdf/PythonIntro.pdf)
 *   [notebook](doc/notebooks/PythonIntro.ipynb)
 
 ### Introduction à Numpy
-*   [html](https://github.com/astrax/IntroPython-FST/blob/master/doc/html/NumpyIntro.html)
+*   [html](https://astrax.github.io/IntroPython-FST/blob/master/doc/html/NumpyIntro.html)
 *   [pdf](doc/pdf/NumpyIntro.pdf)
 *   [notebook](doc/notebooks/NumpyIntro.ipynb)
 
 ### Introduction à Matplotlib
-*	[html](https://github.com/astrax/IntroPython-FST/blob/master/doc/html/MatplotlibIntro.html)
+*	[html](https://astrax.github.io/IntroPython-FST/blob/master/doc/html/MatplotlibIntro.html)
 *   [pdf](doc/pdf/MatplotlibIntro.pdf)
 *   [notebook](doc/notebooks/MatplotlibIntro.ipynb)
 
