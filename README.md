@@ -40,7 +40,7 @@ Cette formation a pour but l'initiation: des étudiants en mastère, des doctora
 *   [notebook](doc/notebooks/NumpyIntro.ipynb)
 
 ### Introduction à Matplotlib
-*	[html](https://astrax.github.io/IntroPython-FST/doc/html/MatplotlibIntro.html)
+*   [html](https://astrax.github.io/IntroPython-FST/doc/html/MatplotlibIntro/MatplotlibIntro.html)
 *   [pdf](doc/pdf/MatplotlibIntro.pdf)
 *   [notebook](doc/notebooks/MatplotlibIntro.ipynb)
 
